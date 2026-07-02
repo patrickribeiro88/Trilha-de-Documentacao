@@ -1,4 +1,4 @@
-# Trilha de Documentação
+# Trilha de Documentação - UniSENAI
 
 Repositório com a resolução da **Lista de Exercícios de Fixação** de cada módulo da Trilha de Documentação da UniSENAI, disciplina do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
